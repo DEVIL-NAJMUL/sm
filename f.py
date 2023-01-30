@@ -74,7 +74,7 @@ if mtmt=="1" or mtmt =="01":
 
 	time.sleep(3)
 
-	import Devil-Enc
+	import SMS-BOMBER
 
 	eif mtmt=="2" or mtmt=="02":
 
@@ -90,6 +90,6 @@ if mtmt=="1" or mtmt =="01":
 
 	time.sleep(3)
 
-	import Emoji-Enc
+	import SMS-BOMBER
 
  
